@@ -1,10 +1,14 @@
 [
   {
-    "value": "estudar 2h por dia",
+    "value": "Tomar 2L de água por dia",
     "checked": true
   },
   {
-    "value": "lavar a casa todo domingo",
+    "value": "Correr 15min por dia",
     "checked": false
+  },
+  {
+    "value": "Estudar 3x na semana",
+    "checked": true
   }
 ]
