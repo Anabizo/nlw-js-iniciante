@@ -1,0 +1,10 @@
+[
+  {
+    "value": "estudar 2h por dia",
+    "checked": true
+  },
+  {
+    "value": "lavar a casa todo domingo",
+    "checked": false
+  }
+]
